@@ -1,0 +1,9 @@
+{
+	"name": "Datadev27",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d8a61bc7-d69a-4eff-b831-41c5b8941386",
+		"tenantId": "bd1210ba-4a04-4d25-96cb-f8ef6cdd4da1"
+	}
+}
